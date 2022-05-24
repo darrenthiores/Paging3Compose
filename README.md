@@ -10,7 +10,7 @@ Main Screen
 
 <img src="https://user-images.githubusercontent.com/69592810/170087082-6bbb9569-ec80-4b9f-8a26-3814c77984e9.png" width="35%" height="35%">
 
-Reference:\n
-[https://developer.android.com/codelabs/android-paging-basics#0]\n
-[https://proandroiddev.com/infinite-lists-with-paging-3-in-jetpack-compose-b095533aefe6]\n
-[https://www.droidcon.com/2021/10/13/learn-with-code-jetpack-compose-lists-and-pagination-part-1/]
+Reference
+https://developer.android.com/codelabs/android-paging-basics#0
+https://proandroiddev.com/infinite-lists-with-paging-3-in-jetpack-compose-b095533aefe6
+https://www.droidcon.com/2021/10/13/learn-with-code-jetpack-compose-lists-and-pagination-part-1/
